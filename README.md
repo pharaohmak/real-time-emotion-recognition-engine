@@ -1,49 +1,35 @@
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
+3. [Concepts Covered](#installation)
+4. [Credits](#collaboration)
+### ℹ General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+In this project we will be setting up real time face detection through a webcam using AI. This AI is so quick that we are able to draw in real time the various faces and expressions of every person in the video without much performance overhead. 
+
+By the end of this video you will have fully functional real time face detection on your site which can be used with any webcam or phone camera. If you want to see a part two of this video make sure to let me know in the comments below.
+
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
+
+## 🚀 Technologies
 ***
 A list of technologies used within the project:
+We will be using the Face API JS library built on Tensor Flow to setup the face detection.
 * [Technology name](https://example.com): Version 12.3 
 * [Technology name](https://example.com): Version 2.34
 * [Library name](https://example.com): Version 1234
-## Installation
+## 🧠 Concepts Covered:
 ***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+
+- Using Face API to detect faces
+- Drawing facial detections on a canvas
+- Determining face identity using facial recognition
+
+## Credits
+
+List your collaborators, if any, with links to their GitHub profiles.
+
+If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+
+If you followed tutorials, include links to those here as well.
