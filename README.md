@@ -1,14 +1,14 @@
 # Facial Recognition Software
 
-This repository contains the source code for a facial recognition software built using JavaScript. The software is designed to detect and recognize human faces in images or real-time video streams.
+This repository contains the source code for a facial recognition software built using JavaScript. The software is designed to detect and recognize human facial emotions in images or real-time video streams.
 
 [Live Preview](https://pharaohmak.github.io/facial-recognition-software/)
 
 ## Features
 
 - Face detection: The software utilizes machine learning algorithms to detect human faces in images or video streams. It can detect multiple faces in an image or video frame, and it provides bounding box coordinates around each detected face.
-- Face recognition: The software includes facial recognition capabilities, allowing it to recognize known faces from a pre-trained database. It can match detected faces with known faces based on facial features, and it can identify the recognized faces with labels or names.
-- Real-time detection: The software supports real-time face detection and recognition in video streams, allowing it to be used for live applications, such as video surveillance, access control, or user authentication.
+- Facial emotion recognition: The software includes facial emotion recognition capabilities, allowing it to recognize known facial from a pre-trained database. It can match detected faces with known facial emotions based on facial features, and it can identify the recognized facial expression with labels or names.
+- Real-time detection: The software supports real-time facial emotion detection and recognition in video streams, allowing it to be used for live applications, such as video surveillance, access control, or user authentication.
 - Customizable recognition database: The software allows users to create and manage their own recognition database, where they can add, update, or remove known faces for recognition. The database can be easily customized to suit specific recognition requirements.
 - User-friendly interface: The software provides a user-friendly interface for configuring settings, managing the recognition database, and visualizing the detected and recognized faces. It may include a graphical user interface (GUI) or a web-based interface for easy interaction.
 
@@ -52,6 +52,6 @@ This facial recognition software is open source and available under the [MIT Lic
 
 ## Contact
 
-For any inquiries or questions, please contact the project owner at [youremail@example.com](mailto:youremail@example.com).
+For any inquiries or questions, please contact the project owner at [alchemist@sleepingpharaoh.com](mailto:alchemist@sleepingpharaoh.com).
 
 Thank you for your interest in the Facial Recognition Software!
