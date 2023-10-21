@@ -55,3 +55,19 @@ This facial recognition software is open source and available under the [MIT Lic
 For any inquiries or questions, please contact the project owner at [alchemist@sleepingpharaoh.com](mailto:alchemist@sleepingpharaoh.com).
 
 Thank you for your interest in the Facial Recognition Software!
+
+## Acknowledgements
+
+![Image text](https://yt3.ggpht.com/ytc/APkrFKZWeMCsx4Q9e_Hm6nhOOUQ3fv96QGUXiMr1-pPP=s88-c-k-c0x00ffffff-no-rj)
+
+Web Dev Simplified
+
+1.42M subscribers
+
+🌎 Find Me Here:
+
+- [Twitter](https://twitter.com/DevSimplified)
+
+- [GitHub](https://github.com/WebDevSimplified)
+
+- [CodePen](https://codepen.io/WebDevSimplified)
