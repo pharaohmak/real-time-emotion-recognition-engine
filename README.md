@@ -26,7 +26,7 @@ To set up the facial recognition software locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/facial-recognition-software.git
+git clone https://github.com/pharaohmak/facial-recognition-software.git
 ```
 2. Navigate to the project directory:
 ```
