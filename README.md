@@ -1,4 +1,4 @@
-# Facial Recognition Software
+# Facial Expression Software
 
 This repository contains the source code for a facial recognition software built using JavaScript. The software is designed to detect and recognize human facial emotions in images or real-time video streams.
 
