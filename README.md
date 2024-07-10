@@ -2,8 +2,6 @@
 
 This repository contains the source code for a facial recognition software built using JavaScript. The software is designed to detect and recognize human facial emotions in images or real-time video streams.
 
-[Live Preview](https://pharaohmak.github.io/facial-recognition-software/)
-
 ## Features
 
 - Face detection: The software utilizes machine learning algorithms to detect human faces in images or video streams. It can detect multiple faces in an image or video frame, and it provides bounding box coordinates around each detected face.
