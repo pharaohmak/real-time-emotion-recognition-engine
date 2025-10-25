@@ -1,1 +1,4 @@
-
+.git attributes
+.DS_Store
+.package-lock.json
+package.json
