@@ -1,6 +1,6 @@
-# Facial Expression Software
+# Facial Expression Recognition Software
 
-This repository contains the source code for a facial recognition software built using JavaScript. The software is designed to detect and recognize human facial emotions in images or real-time video streams.
+This repository contains the source code for a facial expression recognition software built using JavaScript. The software is designed to detect and recognize human facial emotions in real-time video streams.
 
 ## Table of Contents
 
@@ -14,19 +14,16 @@ This repository contains the source code for a facial recognition software built
 
 ## Features
 
-- **Face detection**: Utilizes machine learning algorithms to detect human faces in images or video streams. It can detect multiple faces in an image or video frame, and it provides bounding box coordinates around each detected face.
+- **Face detection**: This softare will detect human faces in live video streams. 
 - **Facial emotion recognition**: Includes facial emotion recognition capabilities, allowing it to recognize known facial emotions from a pre-trained database. It can match detected faces with known facial emotions based on facial features, and it can identify the recognized facial expression with labels or names.
 - **Real-time detection**: Supports real-time facial emotion detection and recognition in video streams, allowing it to be used for live applications, such as video surveillance, access control, or user authentication.
-- **Customizable recognition database**: Allows users to create and manage their own recognition database, where they can add, update, or remove known faces for recognition. The database can be easily customized to suit specific recognition requirements.
 - **User-friendly interface**: Provides a user-friendly interface for configuring settings, managing the recognition database, and visualizing the detected and recognized faces. It may include a graphical user interface (GUI) or a web-based interface for easy interaction.
 
 ## Technologies Used
 
 - **JavaScript**: The software is built using JavaScript, a popular programming language for web development and machine learning.
 - **Face detection and recognition libraries**: Utilizes existing JavaScript libraries for face detection and recognition, such as face-api.js, tensorflow.js, or OpenCV.js.
-- **Web-based interface**: If the software includes a web-based interface, it may use HTML, CSS, and other web technologies for rendering the user interface and displaying the detected and recognized faces.
-- **Backend server**: May require a backend server for handling image or video processing tasks, managing the recognition database, and serving the web-based interface.
-- **Machine learning models**: Uses pre-trained machine learning models for face detection and recognition. These models may be trained using deep learning algorithms and large datasets of labeled facial images.
+- **Web-based interface**: The software includes a web-based interface, which uses HTML, CSS, and other web technologies for rendering the user interface and displaying the detected and recognized faces.
 
 ## Setup
 
@@ -34,11 +31,11 @@ To set up the facial recognition software locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/pharaohmak/facial-recognition-software.git
+    git clone https://github.com/pharaohmak/real-time-emotion-recognition-engine.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd facial-recognition-software
+    cd real-time-emotion-recognition-engine
     ```
 3. Install any dependencies or libraries required for the software:
     ```bash
@@ -79,6 +76,6 @@ This facial recognition software is open source and available under the [MIT Lic
 
 ## Contact
 
-For any inquiries or questions, please contact the project owner at [alchemist@sleepingpharaoh.com](mailto:alchemist@sleepingpharaoh.com).
+For any inquiries or questions, please contact the project owner at [me@findmak.com](mailto:me@findmak.com).
 
-Thank you for your interest in the Facial Recognition Software!
+Thank you for your interest in the Real-Time Emotion Recognition Engine!
