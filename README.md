@@ -1,6 +1,6 @@
 # Real-Time Emotion Recognition Engine
 
-This repository contains the source code for a facial expression recognition software built using JavaScript. The software is designed to detect and recognize human facial emotions in real-time video streams.
+This repository contains the source code for a real-time facial emotion recognition engine built using JavaScript. The software is designed to detect and recognize human facial emotions in real-time video streams.
 
 ## Table of Contents
 
